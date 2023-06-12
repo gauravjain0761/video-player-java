@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <root-path
+        name="external_files"
+        path="." />
+
+    <root-path
+        name="external_files"
+        path="/" />
+
+    <root-path
+        name="Download"
+        path="Download/" />
+
+    <root-path
+        name="Document"
+        path="Document/" />
+
+    <root-path
+        name="attachment_file"
+        path="." />
+
+    <root-path
+        name="/storage/emulated/0"
+        path="." />
+
+    <root-path
+        name="root"
+        path="/" />
+
+    <root-path
+        name="root"
+        path="." />
+
+    <root-path
+        name="files"
+        path="." />
+
+    <root-path
+        name="internal_images"
+        path="files/Pictures" />
+
+    <root-path
+        name="internal_images_alternate"
+        path="Pictures" />
+
+    <root-path
+        name="cache"
+        path="." />
+
+    <root-path
+        name="cache"
+        path="/" />
+
+    <files-path
+        name="external_files"
+        path="." />
+
+    <files-path
+        name="external_files"
+        path="/" />
+
+    <files-path
+        name="Download"
+        path="Download/" />
+
+    <files-path
+        name="Document"
+        path="Document/" />
+
+    <files-path
+        name="attachment_file"
+        path="." />
+
+    <files-path
+        name="/storage/emulated/0"
+        path="." />
+
+    <files-path
+        name="root"
+        path="/" />
+
+    <files-path
+        name="root"
+        path="." />
+
+    <files-path
+        name="files"
+        path="." />
+
+    <files-path
+        name="internal_images"
+        path="files/Pictures" />
+
+    <files-path
+        name="internal_images_alternate"
+        path="Pictures" />
+
+    <files-path
+        name="cache"
+        path="." />
+
+    <files-path
+        name="cache"
+        path="/" />
+
+    <external-files-path
+        name="external_files"
+        path="." />
+
+    <external-files-path
+        name="external_files"
+        path="/" />
+
+    <external-files-path
+        name="Download"
+        path="Download/" />
+
+    <external-files-path
+        name="Document"
+        path="Document/" />
+
+    <external-files-path
+        name="attachment_file"
+        path="." />
+
+    <external-files-path
+        name="/storage/emulated/0"
+        path="." />
+
+    <external-files-path
+        name="root"
+        path="/" />
+
+    <external-files-path
+        name="root"
+        path="." />
+
+    <external-files-path
+        name="files"
+        path="." />
+
+    <external-files-path
+        name="internal_images"
+        path="files/Pictures" />
+
+    <external-files-path
+        name="internal_images_alternate"
+        path="Pictures" />
+
+    <external-files-path
+        name="cache"
+        path="." />
+
+    <external-files-path
+        name="cache"
+        path="/" />
+
+    <external-path
+        name="external_files"
+        path="." />
+
+    <external-path
+        name="external_files"
+        path="/" />
+
+    <external-path
+        name="attachment_file"
+        path="." />
+
+    <external-path
+        name="Download"
+        path="Download/" />
+
+    <external-path
+        name="Document"
+        path="Document/" />
+
+    <external-path
+        name="/storage/emulated/0"
+        path="." />
+
+    <external-path
+        name="root"
+        path="/" />
+
+    <external-path
+        name="root"
+        path="." />
+
+    <external-path
+        name="files"
+        path="." />
+
+    <external-path
+        name="internal_images"
+        path="files/Pictures" />
+
+    <external-path
+        name="internal_images_alternate"
+        path="Pictures" />
+
+    <external-path
+        name="external"
+        path="." />
+
+    <external-path
+        name="external"
+        path="/" />
+
+    <external-path
+        name="cache"
+        path="." />
+
+    <external-path
+        name="cache"
+        path="/" />
+
+    <external-cache-path
+        name="cache"
+        path="/" />
+
+    <external-cache-path
+        name="cache"
+        path="." />
+
+    <external-cache-path
+        name="external_cache"
+        path="." />
+
+    <external-cache-path
+        name="external_cache"
+        path="/" />
+
+    <external-cache-path
+        name="external_files"
+        path="." />
+
+    <external-cache-path
+        name="external_files"
+        path="/" />
+
+    <external-cache-path
+        name="attachment_file"
+        path="." />
+
+    <external-cache-path
+        name="Download"
+        path="Download/" />
+
+    <external-cache-path
+        name="Document"
+        path="Document/" />
+
+    <external-cache-path
+        name="/storage/emulated/0"
+        path="." />
+
+    <external-cache-path
+        name="root"
+        path="/" />
+
+    <external-cache-path
+        name="root"
+        path="." />
+
+    <external-cache-path
+        name="files"
+        path="." />
+
+    <external-cache-path
+        name="internal_images"
+        path="files/Pictures" />
+
+    <external-cache-path
+        name="internal_images_alternate"
+        path="Pictures" />
+
+    <external-cache-path
+        name="cached_files"
+        path="." />
+
+    <external-cache-path
+        name="cached_files"
+        path="/" />
+
+    <cache-path
+        name="external_files"
+        path="." />
+
+    <cache-path
+        name="external_files"
+        path="/" />
+
+    <cache-path
+        name="Download"
+        path="Download/" />
+
+    <cache-path
+        name="Document"
+        path="Document/" />
+
+    <cache-path
+        name="attachment_file"
+        path="." />
+
+    <cache-path
+        name="/storage/emulated/0"
+        path="." />
+
+    <cache-path
+        name="root"
+        path="/" />
+
+    <cache-path
+        name="root"
+        path="." />
+
+    <cache-path
+        name="files"
+        path="." />
+
+    <cache-path
+        name="internal_images"
+        path="files/Pictures" />
+
+    <cache-path
+        name="internal_images_alternate"
+        path="Pictures" />
+
+    <cache-path
+        name="cache"
+        path="." />
+
+    <cache-path
+        name="cache"
+        path="/" />
+
+    <cache-path
+        name="cached_files"
+        path="." />
+
+    <cache-path
+        name="cached_files"
+        path="/" />
+
+</paths>

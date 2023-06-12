@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_settings">Settings</string>
+
+    <!--    <string name="txt_no_songs">Tap the<font color="#5A51FF" size="24"> + </font>button to create something new</string>-->
+<!--    <string name="txt_no_songs_msg">A Place for all your Video</string>-->
+
+    <string name="txt_tab_the">Tap the</string>
+    <string name="txt_plus"><font color="#5A51FF" size="22"> + </font></string>
+    <string name="txt_plus_msg">button to create something new</string>
+    <string name="txt_no_songs_msg">A Place for all your Video</string>
+
+
+    <string name="txt_scanning">Scanning...</string>
+    <string name="txt_sortBy">SORT BY</string>
+    <string name="txt_emptyTrash">Empty the trash</string>
+    <string name="txt_delete">Delete</string>
+    <string name="txt_copy">Copy To</string>
+    <string name="txt_move">Move To</string>
+    <string name="txt_restore">Restore</string>
+    <string name="txt_recycleBin">Recycle Bin</string>
+    <string name="txt_search">Search</string>
+    <string name="txt_scanFiles">Scan Files</string>
+    <string name="txt_localFiles">Local Files</string>
+    <string name="txt_DONE">DONE</string>
+    <string name="txt_cancel">Cancel</string>
+
+
+    <string name="txt_sort_by_nameA2Z">Name (A to Z)</string>
+    <string name="txt_sort_by_nameZ2A">Name (Z to A)</string>
+    <string name="txt_sort_by_date_new">Date (newest first)</string>
+    <string name="txt_sort_by_date_old">Date (oldest first)</string>
+    <string name="txt_sort_by_duration_short">Duration (short first)</string>
+    <string name="txt_sort_by_duration_long">Duration (long first)</string>
+    <string name="txt_sort_by_size_small">Size (small first)</string>
+    <string name="txt_sort_by_size_large">Size (large first)</string>
+
+    <string name="txt_yes">Yes</string>
+    <string name="txt_no">No</string>
+
+    <string name="alert_empty_trash">Are you sure!! Do you want to empty trash ?</string>
+    <string name="alert_empty_trash_msg">All video Trashed!</string>
+
+    <string name="alert_restore">Are you sure!! Do you want to restore selected videos ?</string>
+    <string name="alert_restore_msg">Video Restored!</string>
+
+    <string name="alert_delete">Are you sure!! Do you want to delete selected videos ?</string>
+    <string name="alert_delete_msg">Video Deleted!</string>
+
+    <string name="alert_trash">Are you sure!! Do you want to trash selected videos ?</string>
+    <string name="alert_trash_msg">Video moved to trash!</string>
+
+    <string name="alert_saved_msg">music moved successfully!</string>
+    <string name="alert_saved_error_msg">No one is selected!</string>
+
+    <string name="txt_no_results">Sorry! No results</string>
+    <string name="inserting">Inserting</string>
+    <string name="deleting">Deleting</string>
+    <string name="initializing">initializing</string>
+
+
+</resources>

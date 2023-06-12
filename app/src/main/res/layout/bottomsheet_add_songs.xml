@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/sortby_bottomsheet"
+        android:orientation="horizontal"
+        android:padding="@dimen/_30sdp">
+
+        <LinearLayout
+            android:id="@+id/layoutLocalFiles"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="@dimen/_70sdp"
+                android:layout_height="@dimen/_70sdp"
+                android:padding="@dimen/_10sdp"
+                android:src="@drawable/ic_localfiles" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                style="@style/txt_title"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="@string/txt_localFiles" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layoutScan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="@dimen/_70sdp"
+                android:layout_height="@dimen/_70sdp"
+                android:padding="@dimen/_10sdp"
+                android:src="@drawable/ic_scanfiles" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                style="@style/txt_title"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="@string/txt_scanFiles" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

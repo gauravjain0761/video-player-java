@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.app.videoplayer.ui.activity.HomeActivity">
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@drawable/icv_delete"
+        android:title="@string/action_delete"
+        app:iconTint="@color/icon_color"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/icv_settings"
+        android:title="@string/action_settings"
+        app:iconTint="@color/icon_color"
+        app:showAsAction="always" />
+</menu>
